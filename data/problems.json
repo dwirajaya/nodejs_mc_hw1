@@ -1,0 +1,74 @@
+[
+    {
+        "source": "Tchepyschny 80 JT",
+        "author": "Marjan Kovačević",
+        "date": "2014",
+        "award": "2nd Prize",
+        "fen": "2r2n2/2p3Q1/5R2/2p1Np2/2Pkp3/1P1N4/1K1Bn3/3R2qb w - - 0 1",
+        "stipulation": "#2",
+        "key": "1. Nf2"
+    },
+    {
+        "source": "Schach-Echo",
+        "author": "Touw Hian Bwee",
+        "date": "1973",
+        "award": "1st Prize",
+        "fen": "7n/2pp2r1/2N2B1R/b1QBpk2/2b4R/r5p1/6P1/1qnN3K w - - 0 1",
+        "stipulation": "#2",
+        "key": "1. Qe7"
+    },
+    {
+        "source": "Problem Observer",
+        "author": "Eugene Rosner",
+        "date": "2011",
+        "award": "3rd Prize",
+        "fen": "1r2bq2/2B2P2/p1pp1N2/2k3p1/Kn4R1/PR6/n1p2p1Q/2N2r1B w - - 0 1",
+        "stipulation": "#2",
+        "key": "1. Rh3"
+    },
+    {
+        "source": "Magyar Sakkelet",
+        "author": "Yanuarta Simadibrata",
+        "date": "1991",
+        "award": "1st Prize",
+        "fen": "1n3r1b/1Kp1R3/7R/1Bpk3p/6p1/p5Br/q3N3/6Q1 w - - 0 1",
+        "stipulation": "#2",
+        "key": "1. Bxc7"
+    },
+    {
+        "source": "Sochi-2014",
+        "author": "Peter Gvozdjak",
+        "date": "2014",
+        "award": "1st Prize",
+        "fen": "1K6/1p3p2/5R1Q/B2nkB1P/2P2R2/1N1pr3/8/1q5r w - - 0 1",
+        "stipulation": "#2",
+        "key": "1. Rb6"
+    },
+    {
+        "source": "Wola Gulowska",
+        "author": "John Rice",
+        "date": "2013",
+        "award": "1st / 2nd Prize e.a.",
+        "fen": "1b2Rq2/3N3b/4Bp2/1KPPp3/3Pk1Pr/1R4Pp/1BP1p1P1/Q7 w - - 0 1",
+        "stipulation": "#2",
+        "key": "1. c4"
+    },
+    {
+        "source": "3rd FIDE World Cup in Composing",
+        "author": "Daniel Wirajaya",
+        "date": "2013",
+        "award": "9th Prize",
+        "fen": "2r5/1N6/3R3q/2Rp3r/1NBk1p2/1p2bP2/8/3KQ3 w - - 0 1",
+        "stipulation": "#2",
+        "key": "1. Nxd5"
+    },
+    {
+        "source": "Probleemblad",
+        "author": "Hidajat Maruta",
+        "date": "1969",
+        "award": "1st Prize",
+        "fen": "n7/1B1RK3/2q2p2/1b3RP1/N1N1kPP1/1Q1p1r2/2rB2P1/6b1 w - - 0 1",
+        "stipulation": "#2",
+        "key": "1. Qb4"
+    }
+]
